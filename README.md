@@ -1,2 +1,2 @@
 # hello-world
-My ver first github contribution
+My first github push
